@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://drive.google.com/uc?export=download&amp;id=1DU26Yl97VoQSYJplMUJjpNIDoJaQcz5m
+</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://lh5.googleusercontent.com/oGTVc2P9Qz4UxEvL-nRpvCu3-cw3SW_Fs3ow6uUT_dLBvpdbGe2b_l_TE3Y7ykzBjvT6kOc2a5mvBKWzqLC2MWnExFT0_8pmuqX-ucWjAj8F0s1OPlLIVpaYYdcB4D-Tpw=w1280</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://lh5.googleusercontent.com/hoH7gdIyd9nr5u6XbFDRuZHK3nqAzEx1ksAEmQtnKeoYMLUn-5ew3mpTMXxRvdKQzW6tTlcT5ytD64i1L18xqHs=w1280</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>aik.WPAProto</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>WPAProto</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
